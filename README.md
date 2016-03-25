@@ -1,6 +1,7 @@
 # PttStatistics 
 統計PTT看板推文 or 文章標題 熱門關鍵詞 for Windows and Linux  on python
-* [Demo Video](https://youtu.be/kuLBL9ggBSg) - Windows 
+* [Demo Video](https://youtu.be/XNXCt0uOkCk) - Windows  V2
+* [Demo Video](https://youtu.be/kuLBL9ggBSg) - Windows  V1
 
 ## 特色
 * 統計PTT看板 推文 or 文章標題 熱門關鍵詞
